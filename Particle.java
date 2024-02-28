@@ -7,7 +7,7 @@ public class Particle {
     public static final double R_MAX = 400;
     public static final double R_RANGE = R_MAX - R_MIN;
     public static final int SIZE = 6;
-    public static final int MAX_SPEED = 4;
+    public static final int MAX_SPEED = 7;
 
     public V position;
     public V velocity;
