@@ -4,8 +4,8 @@ import java.awt.event.*;
 import java.util.ArrayList;
 
 public class Main extends JFrame {
-    public static final int WIDTH = 800;
-    public static final int HEIGHT = 800;
+    public static final int WIDTH = 600;
+    public static final int HEIGHT = 600;
     public static final int NUMBER_OF_PARTICLES = 200;
     public static final int FPS = 48;
 
